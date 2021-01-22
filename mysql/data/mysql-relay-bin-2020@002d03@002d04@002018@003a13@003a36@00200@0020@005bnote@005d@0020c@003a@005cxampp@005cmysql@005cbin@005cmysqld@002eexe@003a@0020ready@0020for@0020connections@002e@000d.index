@@ -1,0 +1,20 @@
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000009
+2020-03-05 18:59:57 10 [Note] Master '2020-03-04 18:13:36 0 [Note] Added new Master_info '' to hash table': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-03-05 18:59:57 11 [ER2020-03-05 18:59:57 7 [ERROR] log 2020-03-05 18:59:57 10 [Note] Master '2020-03-04 18:13:36 0 [Note] Added new Master_info '' to hash table': Slave I/O thread exiting, read up to log 'FIRST', position 4 listed in the index, but failed to stat
+2020-03-05 18:59:57 7 [ERROR] Error counting relay log space
+3a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000010
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000011
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000012
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000013
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000014
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000015
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000016
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000017
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000018
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000019
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000020
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000021
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000022
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000023
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000024
+.\mysql-relay-bin-2020@002d03@002d04@002018@003a13@003a36@00200@0020@005bnote@005d@0020c@003a@005cxampp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000025
